@@ -1,0 +1,4 @@
+{{ include.date | date: "%-d" }}
+{% assign m = include.date | date: "%-m" | minus: 1 %}
+{{ site.months[m] | downcase }}
+{{ include.date | date: "%Y" }}
