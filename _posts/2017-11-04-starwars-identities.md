@@ -23,6 +23,6 @@ De Force is heel sterk in mij, dus het verbaasde me niet dat de Emperor op zoek 
 
 Dit was mijn eigen STAR WARS Identity, cool he! Check [hier](http://sw-id.com/59fdf0b3c7e43) mijn hele profiel.
 
-Ik kan niet wachten op de The Last Jedi en ga nog maar eens de trailer bekijken. :sparkles:
+Ik kan niet wachten op The Last Jedi en ga nog maar eens de trailer bekijken. :sparkles:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gn0WzX3OcAU" frameborder="0" allowfullscreen></iframe>
